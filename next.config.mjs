@@ -10,6 +10,7 @@ const nextConfig = {
       "avatars.githubusercontent.com",
       "api.microlink.io",
       "res.cloudinary.com",
+      "portfolio-backend-najv.onrender.com"
     ],
   },
   experimental: {
